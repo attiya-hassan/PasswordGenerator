@@ -7,3 +7,9 @@
 The following are instructions to run this project :
 1 - Firstly..
 2 - Secondly ..
+
+Changes made for instructions through main branch
+
+1- First handle ....
+2- SEcondly you ....
+
